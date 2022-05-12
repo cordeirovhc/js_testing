@@ -10,6 +10,14 @@ São usados para substituir/simular algum comportamento de um sistema, como por 
 
 Observam funções, registrando parâmetros, resultados e quantidade total de chamadas.
 
+## End-to-end
+
+São feitos para testar o comportamento de um sistema do ponto de vista do usuário.
+
+## Code coverage
+
+(to-do)
+
 ## Referências
 
 - [JS Expert](https://javascriptexpert.com.br/)
